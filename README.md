@@ -263,7 +263,7 @@ $$\left[ X_{1} (k+1)\right/X_{2}(k+2)]=\left[ 0,-3/1,-4 \right]\left[ X1(k)/X2(K
 $$y=\left[ 0,1 \right]\left[ X1(k)/X2(K) \right]$$
 
 
-# concluciones
+# conclusiones
 
 El espacio de estados es una representación matemática fundamental para el análisis y diseño de sistemas dinámicos. A diferencia de la función de transferencia, que solo describe la relación entre la entrada y la salida del sistema, el espacio de estados ofrece una visión más completa al modelar explícitamente las variables internas del sistema, conocidas como estados.
 
